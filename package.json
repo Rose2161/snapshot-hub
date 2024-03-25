@@ -9,7 +9,7 @@
     "start": "ts-node src/index.ts"
   },
   "dependencies": {
-    "@ensdomains/ensjs": "^2.0.1",
+    "@ensdomains/ensjs": "^3.4.4",
     "@ethersproject/abi": "^5.0.1",
     "@ethersproject/address": "^5.0.1",
     "@ethersproject/constants": "^5.0.1",
